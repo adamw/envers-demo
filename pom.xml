@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-envers</artifactId>
-            <version>3.6.0.CR1</version>
+            <version>3.6.3.Final</version>
         </dependency>
 
         <!-- Testing -->
