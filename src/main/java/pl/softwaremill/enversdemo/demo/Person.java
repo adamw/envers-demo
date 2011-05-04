@@ -1,4 +1,4 @@
-package pl.softwaremill.ennversdemo.demo;
+package pl.softwaremill.enversdemo.demo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package pl.softwaremill.ennversdemo.demo;
+package pl.softwaremill.enversdemo.demo;
 
 import org.apache.log4j.BasicConfigurator;
 import org.hibernate.ejb.Ejb3Configuration;
